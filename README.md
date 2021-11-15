@@ -1,9 +1,10 @@
-![Harmonics front](harmonics.svg)
+[![Harmonics hero](harmonics.svg)][uselessSc]
 <p align="left">
 <a href="https://twitter.com/rodrihgh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rodrihgh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rodrigohgh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigohgh" height="30" width="40" /></a>
 </p>
 
+[uselessSc]: https://uselessness.science
 
 - 📍 Based in Berlin
 - 🔬 Currently working towards my PhD at the 
@@ -18,7 +19,7 @@
 - ©️ Considering changing back to C/C++ eventually
 - 🎵 Playing 🎸🥁🎤
 - 💬 Speaking 🇪🇸 🇬🇧 🇩🇪 🇫🇷
-- 🔗 [Science of Uselessness](https://uselessness.science) – Personal website
+- 🔗 [Science of Uselessness][uselessSc] – Personal website
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=rodrihgh&label=Profile%20views&color=0e75b6&style=flat" alt="rodrihgh" />
