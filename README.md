@@ -7,7 +7,7 @@
 [uselessSc]: https://uselessness.science
 
 - 📍 Based in Berlin
-- 🔬 Currently working towards my PhD at the 
+- 🔬 Working towards my PhD at the 
 [Fraunhofer Heinrich Hertz Institute](https://github.com/fraunhoferhhi/)
 - 🤓 My current research interests are:
   - 📶 Mobile communications
