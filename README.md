@@ -33,3 +33,7 @@
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=rodrihgh&label=Profile%20views&color=0e75b6&style=flat" alt="rodrihgh" />
 </p>
+
+_Avatar based on a collaboration with [Risto Avramovski](https://ristoavramovski.com/)
+and [Keenly](https://keenly.de)
+for the [6G-RIC](https://6g-ric.de) project._ 
