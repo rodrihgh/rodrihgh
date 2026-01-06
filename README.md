@@ -22,8 +22,6 @@
 - 💡 Personal website - [Science of Uselessness][uselessSc]
 - 📚 Find me on [Google Scholar](https://scholar.google.com/citations?user=1ESdN-QAAAAJ)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrihgh&show_icons=true&locale=en" alt="rodrihgh" /></p>
-
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=rodrihgh&label=Profile%20views&color=0e75b6&style=flat" alt="rodrihgh" />
 </p>
