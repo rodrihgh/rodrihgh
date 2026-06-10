@@ -4,7 +4,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,matlab,r,bash,latex,cpp&theme=light)](https://skillicons.dev)
 
-- 🎓 PhD from the [Technische Universität Berlin](https://www.tu.berlin/en/netit)
+- ⌛ Previously at [Fraunhofer Heinrich Hertz Institute for Telecommunications](https://www.hhi.fraunhofer.de/en/departments/wn.html)
+- 🎓 PhD from [Technische Universität Berlin](https://doi.org/10.14279/depositonce-24678)
 - 🔬 Current research interests
   - 📶 Mobile communications
   - 🎯 Radar sensing
